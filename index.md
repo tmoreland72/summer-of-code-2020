@@ -1,7 +1,11 @@
 ---
-title: Summer of Coding 2020
+title: Summer of Code 2020
 ---
-# Summer of Coding
+
+# Summer of Code
+
+## Contents
+{:toc}
 
 ## Courses
 
@@ -60,3 +64,14 @@ Prerequisites: Web Development 101
             - $7 per lecture hour
 
 ## Projects
+
+### About Me
+Use what you've learned to create a nice looking "About Me" web page/site.  
+
+For inspiration do a Google search for [about me website templates](https://bit.ly/3cjfAQq).  The important thing is to use the skills you've learned.
+
+Minimum Features:
+- Images
+- Links/Buttons
+- Typography
+- Layout
