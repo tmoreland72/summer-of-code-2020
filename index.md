@@ -5,6 +5,7 @@ title: Summer of Code 2020
 # Summer of Code
 
 ## Contents
+* TOC
 {:toc}
 
 ## Courses
