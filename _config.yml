@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-theme: jekyll-theme-minimal
-markdown: kramdown
-=======
 theme: jekyll-theme-slate
->>>>>>> 6aa7e1592445700ea47be1424588dce35f2731af
+markdown: kramdown
