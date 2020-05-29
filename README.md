@@ -1,3 +1,6 @@
+---
+title: Summer of Coding 2020
+---
 # Summer of Coding
 
 ## Courses
