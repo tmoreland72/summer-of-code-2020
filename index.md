@@ -21,7 +21,8 @@ Prerequisites: Getting Started
 ### Coding 101
 Prerequisite: Basics 101
 
-- CodaKid: Coding Basics: Scratch (28 hours)
+- CodaKid: 
+   - Coding Basics: Scratch (28 hours)
       - Reward
          - Nintendo Switch Lite & one game OR
          - $200
