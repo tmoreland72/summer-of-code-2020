@@ -8,6 +8,15 @@ title: Summer of Code 2020
 * TOC
 {:toc}
 
+## Accounts
+- [CodaKid](https://my.codakid.com)
+   - Angelika: troy4angelika@morelands.net
+   - Michela: troy4michela@morelands.net
+   - Tristan: troy4tristan@morelands.net
+
+- [Udemy](https://www.udemy.com)
+   - Angelika (Use Google to Login)
+
 ## Courses
 
 ### Basics 101
