@@ -86,3 +86,21 @@ Minimum Features:
 - Links/Buttons
 - Typography
 - Layout
+
+### My Homepage
+Use what you've learned to create a useful website that your browser will use as the homepage.  
+
+For inspiration look at sites like [MSN](https://msn.com) or [my.yahoo.com](https://my.yahoo.com).  The important thing is to use the skills you've learned.
+
+Minimum Features:
+- Content Ideas
+   - Favorite Web Sites
+   - Favorite Web Images / Memes
+   - Saved Articles
+   - Current Weather
+- Elements
+   - Buttons (add content)
+   - Forms (to add things)
+   - Cards (clickable favorites)
+   - Lists (saved articles, etc.)
+   - Menus/Tabs
